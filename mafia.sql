@@ -6,12 +6,12 @@
 -- Generation Time: May 26, 2022 at 03:42 PM
 -- Server version: 8.0.29-0ubuntu0.20.04.3
 -- PHP Version: 8.1.6
-
+SET sql_require_primary_key=0;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
 START TRANSACTION;
 SET time_zone = "+00:00";
-SET SQL_REQUIRE_PRIMARY_KEY = 0;
+
 
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
